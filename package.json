@@ -1,0 +1,32 @@
+{
+  "name": "contact-app",
+  "version": "1.0.0",
+  "description": "Simple Contact App",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rdnsan/contact-app.git"
+  },
+  "author": "Ridwan Ikhsan <ridwan.jsx@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rdnsan/contact-app/issues"
+  },
+  "homepage": "https://rdnsan.github.io/contact-app",
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  },
+  "dependencies": {
+    "connect-flash": "^0.1.1",
+    "cookie-parser": "^1.4.5",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "express-ejs-layouts": "^2.5.1",
+    "express-session": "^1.17.2",
+    "express-validator": "^6.12.1"
+  }
+}

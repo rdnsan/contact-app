@@ -17,7 +17,7 @@
   "bugs": {
     "url": "https://github.com/rdnsan/contact-app/issues"
   },
-  "homepage": "https://rdnsan.github.io/contact-app",
+  "homepage": "https://express-contact.herokuapp.com",
   "devDependencies": {
     "nodemon": "^2.0.12"
   },

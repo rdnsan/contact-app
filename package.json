@@ -28,5 +28,8 @@
     "express-ejs-layouts": "^2.5.1",
     "express-session": "^1.17.2",
     "express-validator": "^6.12.1"
+  },
+  "engines": {
+    "node": "14.x"
   }
 }
